@@ -1,0 +1,11 @@
+D:\GitHub\HeroKuTest\bin\Debug\netcoreapp2.0\HeroKuTest.deps.json
+D:\GitHub\HeroKuTest\bin\Debug\netcoreapp2.0\HeroKuTest.runtimeconfig.json
+D:\GitHub\HeroKuTest\bin\Debug\netcoreapp2.0\HeroKuTest.runtimeconfig.dev.json
+D:\GitHub\HeroKuTest\bin\Debug\netcoreapp2.0\HeroKuTest.dll
+D:\GitHub\HeroKuTest\bin\Debug\netcoreapp2.0\HeroKuTest.pdb
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.csprojResolveAssemblyReference.cache
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.csproj.CoreCompileInputs.cache
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.AssemblyInfoInputs.cache
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.AssemblyInfo.cs
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.dll
+D:\GitHub\HeroKuTest\obj\Debug\netcoreapp2.0\HeroKuTest.pdb

@@ -1,0 +1,12 @@
+D:\GitHub\HeroKuTest
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=HeroKuTest
+--content-root=D:\GitHub\HeroKuTest
+--file=D:\GitHub\HeroKuTest\Views\Home\About.cshtml
+--file=D:\GitHub\HeroKuTest\Views\Home\Contact.cshtml
+--file=D:\GitHub\HeroKuTest\Views\Home\Index.cshtml
+--file=D:\GitHub\HeroKuTest\Views\Shared\Error.cshtml
+--file=D:\GitHub\HeroKuTest\Views\Shared\_Layout.cshtml
+--file=D:\GitHub\HeroKuTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\GitHub\HeroKuTest\Views\_ViewImports.cshtml
+--file=D:\GitHub\HeroKuTest\Views\_ViewStart.cshtml
